@@ -1,2 +1,2 @@
-# gmp-mscv
+# gmp-msvc
 mpir + mpfr
